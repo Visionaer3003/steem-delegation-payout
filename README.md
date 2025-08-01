@@ -1,4 +1,8 @@
 # Steem Delegation Payout Bot
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Node.js](https://img.shields.io/badge/node-%3E%3D14-blue.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 
 This Node.js script distributes daily STEEM payouts proportionally based on incoming delegations. Originally developed for the account **@suntr**, but can be adapted to any account.
 
